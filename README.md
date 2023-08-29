@@ -1,5 +1,5 @@
 # Graduation-Project
-This is the prototype nicknamed "Crionica" created for my graduation Thesis for the Computer Science about decision making in games.
+This is a prototype nicknamed "Crionica" created for my graduation Thesis for the Computer Science about decision making in games.
 
 Due to being a prototype, is very "rustic" but puts in action the main mechanic of branching dialogs and NPC interaction.
 
